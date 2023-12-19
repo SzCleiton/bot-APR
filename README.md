@@ -10,7 +10,7 @@
 pip install openpyxl pyperclip pyautogui
 ```
 
-How to use
+<h1>How to use</h1>
 
 
 1. Open the Excel spreadsheet 'produtos_ficticios.xlsx' in the same directory as the script.

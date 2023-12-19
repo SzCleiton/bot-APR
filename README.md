@@ -1,12 +1,14 @@
-Automated Product Registration
+<h1>Automated Product Registration</h1>
 
-Here is a Python script that automates the product registration process in an Excel spreadsheet. The script uses the openpyxl library to access and manipulate the spreadsheet, and the pyperclip and pyautogui libraries to copy and paste information between the spreadsheet and an external application.
+> Here is a Python script that automates the product registration process in an Excel spreadsheet. The script uses the openpyxl library to access and manipulate the spreadsheet, and the pyperclip and pyautogui libraries to copy and paste information between the spreadsheet and an external application.
 
 Prerequisites
 
 Make sure to have the following libraries installed before running the script:
 
+```bash
 pip install openpyxl pyperclip pyautogui
+```
 
 How to use
 

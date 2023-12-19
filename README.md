@@ -39,4 +39,7 @@ How to use
 
 > The script repeats these steps for each product in the spreadsheet, advancing to the next page when necessary. After completing all products, the process is finished.
 
-Note: This script is designed for a specific application and may require adjustments to work in different environments. Make sure to understand the operation of the target application before running the script. Use it responsibly and in accordance with the terms of service of the application.
+```plaintext
+⚠️ **Note:** This script is designed for a specific application and may require adjustments to work in different environments.
+Make sure to understand the operation of the target application before running the script.
+Use it responsibly and in accordance with the terms of service of the application.
